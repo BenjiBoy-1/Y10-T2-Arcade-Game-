@@ -1,0 +1,10 @@
+Character will have 3 lives, the harder the level the less lives
+
+The more obstacles you dodge the more points you get 
+points are displayed in the top right corner, and calculated by multiplying the speed of the object out of 1 (75% speed would be 0.75) by 100.
+
+you will be able to move left and right and can change the sensitivity of the controls. 
+You will have the ability to crouch, which coding wise will just be shrinking the hitbox and character in half, 
+You will be able to jump and there mightt be platforms that are needed to survive wider obstacles.
+
+for the infinite levels obstacles will be generated randomly out of a select range of shapes 
